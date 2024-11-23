@@ -1,7 +1,7 @@
 import requests
 
 headers = {
-    'X-ApiKeys': 'accessKey=YourAccesKey;secretKey=YorSecretKey',
+    'X-ApiKeys': 'accessKey=YourAccesKey;secretKey=YourSecretKey',
     'Content-Type': 'application/json',
 }
 
